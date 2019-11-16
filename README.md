@@ -1,4 +1,4 @@
-例如我想查找和下载视频理解(video understanding)相关论文
+例如我想查找和下载视频理解(video understanding)相关论文   
 大纲，蓝色都是有超级链接的可以直接打开:
 ## 第一步 [谷歌搜索(英文)](http://ac.scmor.com/) [学校的知网(中文)](https://www.cnki.net/)
 ## 第二步 下载论文([谷歌学术--英文](http://ac.scmor.com/) [学校的知网--中文](https://www.cnki.net/))下载不了看第三步
